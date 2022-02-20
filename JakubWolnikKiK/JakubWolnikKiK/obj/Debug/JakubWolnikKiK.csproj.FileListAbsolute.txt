@@ -1,0 +1,30 @@
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.exe.config
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.exe
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.pdb
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csprojAssemblyReference.cache
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.Form1.resources
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.Properties.Resources.resources
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csproj.GenerateResource.cache
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csproj.CoreCompileInputs.cache
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.exe
+C:\Users\WGS 17\source\repos\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.pdb
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.exe.config
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.exe
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.pdb
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csprojAssemblyReference.cache
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.Form1.resources
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.Properties.Resources.resources
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csproj.GenerateResource.cache
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.exe
+C:\Users\jakub\Downloads\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.pdb
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.exe.config
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.exe
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\bin\Debug\JakubWolnikKiK.pdb
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csprojAssemblyReference.cache
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.Form1.resources
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.Properties.Resources.resources
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csproj.GenerateResource.cache
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.csproj.CoreCompileInputs.cache
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.exe
+C:\Users\WGS 17\Desktop\zaawansowane\JakubWolnikKiK\JakubWolnikKiK\obj\Debug\JakubWolnikKiK.pdb
